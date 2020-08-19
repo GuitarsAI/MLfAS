@@ -16,6 +16,13 @@
   - Activation Functions
   - Optimizers
   - Python PyTorch Examples
+  
+- 02 Neural Network as Function Approximator, Regression:<br> [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MLfAS/blob/master/MLAS_02_NeuralNets_Approximator.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MLfAS/master?filepath=MLAS_02_NeuralNets_Approximator.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/MLfAS/blob/master/MLAS_02_NeuralNets_Approximator.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/eg6nZJz05eA)
+
+  - Introduction
+  - PyTorch Example: Shallow Network
+  - Deep Function Approximator
+  - PyTorch Example: Deep Network
 
  # YouTube Playlist
  [![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://www.youtube.com/playlist?list=PL6QnpHKwdPYjfCH2zkMGEHu2kv1HTICYA)
