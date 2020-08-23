@@ -33,6 +33,12 @@
   - Cross Entropy Loss
   - PyTorch Example
   - Unknown Test Image
+  
+- 04 Neural Network Detector for MNIST Digit Recognition:<br> [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MLfAS/blob/master/MLAS_04_NeuralNets_Detector_MNIST.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MLfAS/master?filepath=MLAS_04_NeuralNets_Detector_MNIST.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/MLfAS/blob/master/MLAS_04_NeuralNets_Detector_MNIST.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/9jNt0C5quL4)
+
+  - Introduction
+  - One-Hot Encoding
+  - PyTorch Example
 
  # YouTube Playlist
  [![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://www.youtube.com/playlist?list=PL6QnpHKwdPYjfCH2zkMGEHu2kv1HTICYA)
