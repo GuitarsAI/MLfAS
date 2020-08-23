@@ -1,24 +1,21 @@
-name: TU_Tutorials
+name: TU_Ilmenau
 channels:
+  - pytorch
   - conda-forge
   - defaults
 dependencies:
-  - python=
-  - numpy
-  - scipy
-  - matplotlib
-  - scikit-learn
-  - sympy
-  - bokeh
+  - python=3.7
+  - portaudio
+  - ffmpeg
   - librosa
   - notebook
+  - numba==0.46.0
+  - ipywidgets
+  - rise
   - jupyter_nbextensions_configurator
   - jupyter_contrib_nbextensions
-  - widgetsnbextension
-  - rise
-  - ipywidgets
   - pyaudio
-  - plotly=3.10.0
-  - nodejs
-
+  - opencv
+  - pytorch
+  - torchvision
 
