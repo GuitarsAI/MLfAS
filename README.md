@@ -69,11 +69,10 @@
 ## 09 Recurrent Neural Network (RNN):<br> [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/MLfAS/blob/master/MLAS_09_RNN.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/MLfAS/master?filepath=MLAS_09_RNN.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/MLfAS/blob/master/MLAS_09_RNN.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/hOdzeTOEG6g)
 
 #### - Introduction
-#### - Posterior and Prior Distribution
-#### - Kullback–Leibler Divergence
-#### - Variational Loss
-#### - Lagrange Multiplier
-#### - Variational Autoencoder Experiments
+#### - Infinite Impulse Response (IIR) Filter Structure
+#### - IIR Python Implementation
+#### - IIR Implementation using RNN in PyTorch
+#### - Training the RNN
 
  # YouTube Playlist
  [![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://www.youtube.com/playlist?list=PL6QnpHKwdPYjfCH2zkMGEHu2kv1HTICYA)
